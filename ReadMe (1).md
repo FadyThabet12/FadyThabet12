@@ -1,6 +1,6 @@
 # Hi, I'm Fady Thabet 
 
-**AI Engineer & AI Scientist** · Artificial Intelligence & Data Management Student at Badr University in Assiut · Egypt 🇪🇬
+**AI Engineer & Data Scientist** ·
 
 I'm passionate about building intelligent systems that bridge the gap between AI research and real-world engineering. I enjoy working across the entire AI development lifecycle, from data processing and machine learning to deep learning, Generative AI, LLM applications, and production-ready AI systems.
 
