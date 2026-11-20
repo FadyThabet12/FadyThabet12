@@ -121,7 +121,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -130,7 +130,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=FadyThabet12&theme=dark&hide_border=true&show_icons=true" />
