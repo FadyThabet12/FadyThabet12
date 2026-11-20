@@ -137,10 +137,6 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyThabet12&theme=dark&hide_border=true&layout=compact" />
 </p>
 
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FadyThabet12&theme=dark&hide_border=true" />
-</p>
-
 ---
 
 ##  My Goals
