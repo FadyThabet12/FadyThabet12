@@ -1,4 +1,4 @@
-# Hi, I'm Fady Thabet 👋
+# Hi, I'm Fady Thabet 
 
 **AI Engineer & AI Scientist** · Artificial Intelligence & Data Management Student at Badr University in Assiut · Egypt 🇪🇬
 
@@ -11,18 +11,18 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 
 ---
 
-## 🔭 What I'm up to
+##  What I'm up to
 
-- 🤖 Building end-to-end Machine Learning and Deep Learning solutions.
-- 🧠 Exploring Generative AI, LLMs, RAG architectures, and AI Agents.
-- ⚙️ Developing AI-powered applications and learning production-level AI Engineering.
-- 📊 Working on data science, predictive modeling, and intelligent analytics.
-- 🚀 Exploring MLOps, model deployment, and scalable AI systems.
-- 🎓 Continuously developing my knowledge in Artificial Intelligence and Software Engineering.
+-  Building end-to-end Machine Learning and Deep Learning solutions.
+-  Exploring Generative AI, LLMs, RAG architectures, and AI Agents.
+-  Developing AI-powered applications and learning production-level AI Engineering.
+-  Working on data science, predictive modeling, and intelligent analytics.
+-  Exploring MLOps, model deployment, and scalable AI systems.
+-  Continuously developing my knowledge in Artificial Intelligence and Software Engineering.
 
-## 🛠 Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -30,7 +30,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
-### 🤖 Artificial Intelligence & Machine Learning
+###  Artificial Intelligence & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2)
@@ -42,7 +42,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 ![LightGBM](https://img.shields.io/badge/LightGBM-00A86B)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22)
 
-### 🧠 Deep Learning & Neural Networks
+###  Deep Learning & Neural Networks
 
 ![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-6A5ACD)
 ![CNN](https://img.shields.io/badge/CNN-Computer%20Vision-4169E1)
@@ -53,7 +53,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC)
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-228B22)
 
-### 💬 Natural Language Processing (NLP)
+###  Natural Language Processing (NLP)
 
 ![NLP](https://img.shields.io/badge/NLP-412991)
 ![Text Processing](https://img.shields.io/badge/Text%20Processing-007396)
@@ -62,7 +62,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-444444)
 
-### ✨ Generative AI & AI Engineering
+###  Generative AI & AI Engineering
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white)
@@ -75,7 +75,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-008080)
 
-### 📊 Data Science & Data Analysis
+###  Data Science & Data Analysis
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -85,42 +85,31 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 ![EDA](https://img.shields.io/badge/EDA-Analysis-228B22)
 ![Statistics](https://img.shields.io/badge/Statistics-4682B4)
 
-### ⚙️ Backend Development & APIs
+###  Backend Development & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B)
-
-### 🌐 Frontend Development
-
+###  Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-### 🗄️ Databases & Data Management
-
+###  Databases & Data Management
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-336791)
 ![ERD](https://img.shields.io/badge/ERD-4682B4)
-
-### 🚀 MLOps, Deployment & DevOps
-
+###  MLOps, Deployment & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5)
 ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-228B22)
 ![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-FF6F00)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-### 🔧 Tools & Development Environment
-
+### Tools & Development Environment
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -154,7 +143,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 - Build scalable, production-ready AI applications.
 - Become an expert in AI Engineering and MLOps.
@@ -163,7 +152,7 @@ My main interests include Machine Learning, Deep Learning, Data Science, Natural
 - Bridge the gap between AI research and practical engineering.
 - Contribute to innovative AI projects and open-source communities.
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I'm interested in collaborating on projects involving:
 
